@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Andreveeck1
 - 👀 I’m interested in job
 - 🌱 I’m currently learning java,mysql,html,css,git,github
-- 📫 How to reach me andredre@gmail.com
+- 📫 How to reach me andredre250580@gmail.com
 
 <!---
 Andreveeck1/Andreveeck1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
