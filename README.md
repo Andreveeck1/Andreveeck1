@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Andreveeck1
+- 👋 Hi, I’m André Veeck
 - 👀 I’m interested in job
 - 🌱 I’m currently learning java,mysql,html,css,git,github
 - 📫 How to reach me andredre250580@gmail.com
