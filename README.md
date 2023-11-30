@@ -1,7 +1,7 @@
 - 👋 Hi, I’m André Veeck
 - 👀 I’m interested in job
 - 🌱 I’m currently learning java,mysql,html,css,git,github
-- 📫 How to reach me andredre250580@gmail.
+- 📫 How to reach me andredre250580@gmail.com
 - 📞 Whatsapp: 5551984792622
 
 <!---
